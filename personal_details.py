@@ -1,0 +1,8 @@
+name = input("enter your name: ")
+print(f" name is {name}")
+email_address = input("enter your email address: ")
+print(f" email_address is {email_address}")
+phone_no = int(input("enter your phone: "))
+print(f" phone_no is {phone_no}")
+address = input("enter your address: ")
+print(f" address is {address}")
